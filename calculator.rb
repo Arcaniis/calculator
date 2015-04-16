@@ -49,4 +49,3 @@ when 4
   answer = num1 / num2
   puts "\n#{num1} / #{num2} = #{answer}"
 end
-    
